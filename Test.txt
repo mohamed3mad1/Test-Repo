@@ -1,5 +1,8 @@
+Title In branch 1
+---------
 Test File
 Line 1 
 Line 2 
 Added Line after commit
 Adding second line - number 5
+Added Line 6 In Branch 1 and added title 
